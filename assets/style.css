@@ -5,9 +5,29 @@
 }
 
 body {
-    background: url('img/images\ \(1\).jpeg');
+    background: url('img/images (1).jpeg');
+    font-family: 'Bai Jamjuree', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
+.cabecalho {
+    background-color: white;
+    padding: 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.cabecalho h1 {
+    font-family: 'Playfair Display', serif;
+    color: red;
+    font-size: 3rem;
+    margin: 0;
+}
+
+main {
+    padding-bottom: 3rem;
+}
 
 #container {
     display: flex; 
